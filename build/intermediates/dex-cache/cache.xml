@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="923c387a12fb3f7c40d3e0ae6dd589e125e1cfbb">
+        <dex dex="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/pre-dexed/debug/instant-run_feaa8edc0b183b44ddf9b8fe24a2f300c6d13942.jar" />
+    </item>
+    <item
+        jar="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6d4f1317085a4f21453beb1767d384b2164f8948">
+        <dex dex="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b8468439051fb005dbfe10cc9e8d0d40444d1add.jar" />
+    </item>
+    <item
+        jar="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_9670172950e5f67e2937f35d3cbb92b7b6b4a0ae.jar" />
+    </item>
+    <item
+        jar="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1b3aa91a34830ffda3f6fa1f704bed23e7fd2da0.jar" />
+    </item>
+    <item
+        jar="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_cc167b6928a97e7c2a5a4e96b54b25205c623aab.jar" />
+    </item>
+    <item
+        jar="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_91138a81a8afbd9ccddcb3212a23813d735647ee.jar" />
+    </item>
+    <item
+        jar="/export/estudiantes/daniel.correa3/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6879d0d6d5dbd1668236bb13b87e4c576ed8f5be.jar" />
+    </item>
+    <item
+        jar="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/libs/musicg-1.4.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4cc5194d9313717e173c63eb38dd220a63b5532">
+        <dex dex="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/pre-dexed/debug/musicg-1.4.2.0_6401c7d2c7cf9a234d93ad8b38b15990b108d47e.jar" />
+    </item>
+    <item
+        jar="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/export/estudiantes/daniel.correa3/AndroidStudioProjects/SoundOpen/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_ffe1af5210fc44ac6ac2df01bb564d865da0467b.jar" />
+    </item>
+
+</items>
